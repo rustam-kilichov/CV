@@ -1,3 +1,3 @@
 # CV
 
-A single-page CV (Curriculum Vitae) using only HTM
+A single-page CV (Curriculum Vitae) using only HTML
